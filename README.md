@@ -1,22 +1,10 @@
 ## Hi there 👋!
 
-<!--
-**filippoengidashet/filippoengidashet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="">
-  <img alt="Filippo Engidashet GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=filippoengidashet&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-</a>
-
-<!-- ![Filippo Engidashet GitHub Stats](https://github-readme-stats.vercel.app/api?username=filippoengidashet&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical) -->
+- 👨‍💻 I'm **Filippo Engidashet**
+- 🎓 I am a Software Engineer
+- 🚀 I’ve worked with reputable companies and shipped amazing products
+- 🌱 I’m currently adapting machine learning, and AI-powered mobile solutions
+- 👯 I’m looking to collaborate on impactful applications, open-source projects, and AI experiments
+- 💬 Ask me about Android development, clean code practices, REST APIs, and advanced software engineering principles
+- ⚡ Fun fact: "_Don’t wait for perfect —> ship it and improve along the way_"
+- 🔗 Reach me on [LinkedIn](https://www.linkedin.com/in/filippo-engidashet/)

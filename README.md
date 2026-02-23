@@ -26,8 +26,8 @@
     <td>Ask me about Android development, clean code practices, REST APIs, and advanced software engineering principles</td>
   </tr>
   <tr>
-    <td>⚡</td>
-    <td>Fun fact: "<i>Don’t wait for perfect —> <b>Ship it</b> and improve along the way</i>"</td>
+    <td>🎉</td>
+    <td><b>Fun fact</b>: Logic says computers can’t understand humor… yet AI can generate memes that make us laugh</td>
   </tr>
     <tr>
     <td>🔗</td>
@@ -43,3 +43,6 @@
     </td>
   </tr>
 </table>
+
+> ⚡ "**_Don’t wait for perfection → Ship it and improve along the way_**"
+> 
